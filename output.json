@@ -1,0 +1,1 @@
+{"type":"search","results":[{"criteria":{"lastName":"Иванов"},"results":[{"firstName":"Иван"}]},{"criteria":{"productName":"Минеральная вода","minTimes":5},"results":[]},{"criteria":{"minExpenses":112,"maxExpenses":4000},"results":[]},{"criteria":{"badCustomers":3},"results":[{"firstName":"Иван","lastName":"Иванов"}]}]}
